@@ -4,7 +4,6 @@
 
 [master](https://github.com/jckling/Daily-Bonus/tree/master) 分支：使用 Github Action 签到，用哪个就配置相应的环境变量，默认输出到控制台。
 
-## 说明
 
 实现功能
 - [x] bilibili 直播（辣条）
